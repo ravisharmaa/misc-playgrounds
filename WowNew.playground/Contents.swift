@@ -1,0 +1,1 @@
+var petsAge = 12

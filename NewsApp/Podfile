@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '13.0'
+use_frameworks!
+
+target "NewsApp" do
+    pod 'Alamofire', '4.8.2'
+    pod 'SwiftyJSON', '~> 4.0'
+    pod 'RealmSwift', '3.18.0'
+end
+
